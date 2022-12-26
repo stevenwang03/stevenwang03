@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Steven Wang
-- 👀 I’m interested in Computer Science and Linguistics
-- 🌱 I’m currently attending Columbia University 
-- 💞️ I’m looking to collaborate on side projects to hone my skills in Java
-- 📫 How to reach me: email me @ slw2182@columbia.edu
+- 👋 Hi, I’m Steven!
+
+- 🌱 studying CS & Linguistics @ Columbia University
+
+- 📫 How to reach me: slw2182@columbia.edu
